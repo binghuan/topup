@@ -1,5 +1,11 @@
 # Orange Top-Up PWA
 
+## Feature overview
+
+![topup — feature flow diagram](README-assets/project-preview.svg)
+
+Conceptual feature flow based on this repository; this is a documentation diagram, not an application screenshot.
+
 A Progressive Web App (PWA) that provides a convenient way to add the Orange Top-Up service to your iOS device's home screen as a native-like app shortcut.
 
 ## Features
